@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23873325)
 # Costruiamo una Coda (Queue) in Java
 
 Costruiamo passo dopo passo una struttura dati dinamica: una coda generica basata su lista concatenata. La coda è una delle strutture più intuitive dell'informatica: con una sola regola — **il primo che entra è il primo che esce (FIFO)** — modella in modo elegante tutte le situazioni in cui bisogna rispettare un ordine di arrivo.
